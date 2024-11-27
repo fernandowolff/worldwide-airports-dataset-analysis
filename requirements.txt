@@ -6,3 +6,6 @@ kaggle==1.6.17
 kagglehub==0.3.4
 geopandas==1.0.1
 geodatasets==2024.8.0
+missingno==0.5.2
+wget==3.2
+openpyxl==3.1.5
